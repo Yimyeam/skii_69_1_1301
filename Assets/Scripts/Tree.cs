@@ -31,7 +31,7 @@ public class Tree : MonoBehaviour
         //if (player.HP <= 0)
         //{
         //    player.HP = 0;
-        //    UIManager.ShowNotiText($"You are dead!\nYour hp is: {player.HP}");
+        //    UIManager.ShownotiText($"You are dead!\nYour hp is: {player.HP}");
         //}
     }
 
